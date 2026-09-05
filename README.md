@@ -62,6 +62,8 @@ Key points:
 
 
 ## MODEL GRAPH
+<img width="917" height="1430" alt="image" src="https://github.com/user-attachments/assets/1ba05314-9600-4022-9839-fe4d53529ae4" />
+
 
 
 ## RESULT
